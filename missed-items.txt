@@ -1,0 +1,15 @@
+RESET.CSS
+----------
+outline: 0;
+background: transparent;
+
+img:
+width: 100%;
+display: block;
+height: auto;
+
+
+LAYOUT.CSS
+---------
+what you can do to buttons:
+transition: background-color 0.3s;
